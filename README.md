@@ -59,7 +59,7 @@ Upon request by the presenter, I was allowed to do a third song:
 
 ### 2004-08-24: KEI week, [ASV Dionysos](http://www.asvdionysos.nl/) (former: ASV Hendrik), Groningen
 
-[#1](FotoRichelkrijgttieten.jpg)
+![#1](FotoRichelkrijgttieten.jpg)
 
 ### 2004-05-25: [OntPopJe](http://www.glv-idun.nl/) (former BioPop), Platform Theater, Groningen
 
@@ -70,8 +70,8 @@ Upon request by the presenter, I was allowed to do a third song:
 
 ### 2004-04-14: Kleinkunstfestival [ASV Dionysos](http://www.asvdionysos.nl/): 
 
-[#1](Foto20040414_kleinkunst068.jpg)
-[#2](Foto20040414_kleinkunst069.jpg)
+![#1](Foto20040414_kleinkunst068.jpg)
+![#2](Foto20040414_kleinkunst069.jpg)
 
 ### 2003-12-07: Open Podium, [Prinsentheater](http://www.prinsentheater.nl/), Groningen
 
