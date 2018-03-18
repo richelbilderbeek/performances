@@ -22,18 +22,46 @@ Upon request by the presenter, I was allowed to do a third song:
 
  * [Heejaa Mama](https://github.com/richelbilderbeek/music/HeejaaMama.md)
 
+### 2014-03-30 15:00: Open Podium, [Prinsentheater](http://www.prinsentheater.nl/), Groningen
+
 ### 2014-03-20 19:00: Open Podium, [GLV Idun](http://www.glv-idun.nl/), Groningen
 
-### 2014-03-30 15:00: Open Podium, [Prinsentheater](http://www.prinsentheater.nl/), Groningen
+ * [Het Leven Is Naar](https://github.com/richelbilderbeek/music/HetLevenIsNaar.md)
+ * [Het Koffielied](https://github.com/richelbilderbeek/music/HetKoffielied.md)
+ * [Organellenwals](https://github.com/richelbilderbeek/music/Organellenwals.md)
+ * [Het N..kmenslied](https://github.com/richelbilderbeek/music/HetNeukmenslied.md)
 
 ### 2013-09-22 15:00: Open Podium, [Prinsentheater](http://www.prinsentheater.nl/), Groningen
 
+ * [Hee Ga Je Mee](https://github.com/richelbilderbeek/music/HeeGaJeMee.md)
+ * [Vrouwen Van Je Dromen](https://github.com/richelbilderbeek/music/VrouwenVanJeDromen.md)
+ * [Heejaa Mama](https://github.com/richelbilderbeek/music/HeejaaMama.md)
+ * [Wooloo Mooloo](https://github.com/richelbilderbeek/music/WoolooMooloo.md)
+
 ### 2011-03-13: Open Podium, [Prinsentheater](http://www.prinsentheater.nl/), Groningen
+
+ * [Voor De Klas](https://github.com/richelbilderbeek/music/VoorDeKlas.md)
+ * [Heejaa Mama](https://github.com/richelbilderbeek/music/HeejaaMama.md)
+ * [Morgenvroeg](https://github.com/richelbilderbeek/music/Morgenvroeg.md)
+ * Ode Aan De Liefde, a poem
+ * [Wooloo Mooloo](https://github.com/richelbilderbeek/music/WoolooMooloo.md)
 
 ### 2011-02-17: KIEZEL week, [ASV Dionysos](http://www.asvdionysos.nl/) (former: ASV Hendrik), Groningen
 
 ![#1](FotoDionysos20110217_1.jpg)
 ![#2](FotoDionysos20110217_2.jpg)
+
+ * [Het Leven Is Naar](https://github.com/richelbilderbeek/music/HetLevenIsNaar.md)
+ * [Vroeger](https://github.com/richelbilderbeek/music/Vroeger.md)
+ * [Ben Ik Een Spin](https://github.com/richelbilderbeek/music/BenIkEenSpin.md)
+ * [Achter Mijn Raam](https://github.com/richelbilderbeek/music/AchterMijnRaam.md)
+ * [Voor De Klas](https://github.com/richelbilderbeek/music/VoorDeKlas.md)
+ * Duizend Bier (instrumental song, together with Michel Mageman)
+ * [Morgenvroeg](https://github.com/richelbilderbeek/music/Morgenvroeg.md)
+ * [Heejaa Mama](https://github.com/richelbilderbeek/music/HeejaaMama.md)
+ * [Mijn Date Van Vrijdagavond](https://github.com/richelbilderbeek/music/MijnDateVanVrijdagavond.md)
+ * [You And Me](https://github.com/richelbilderbeek/music/YouAndMe.md)
+ * [Wooloo Mooloo](https://github.com/richelbilderbeek/music/WoolooMooloo.md)
 
 ### 2009-08-14: KEI week, [ASV Dionysos](http://www.asvdionysos.nl/) (former: ASV Hendrik), Groningen
 
