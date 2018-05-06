@@ -7,7 +7,13 @@ For booking him, send him an email to
 [his email](http://richelbilderbeek.nl/Email.png). 
 All he needs is a piano and a microphone.
 
+## Future performances
+
+ * None planned yet
+
 ## Past performances
+
+Most recent at the top.
 
 ### 2018-03-16 20:00: Open Stage, [Bij Vrijdag](https://www.bijvrijdag.nl), Groningen
 
