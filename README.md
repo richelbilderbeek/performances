@@ -23,7 +23,7 @@ Most recent at the top.
 
 ### 2018-03-16 20:00: Open Stage, [Bij Vrijdag](https://www.bijvrijdag.nl), Groningen
 
- * ![YouTube Video](https://youtu.be/K3NYmWz-9x4)
+ * Video: [YouTube](https://youtu.be/K3NYmWz-9x4) [download](http://www.richelbilderbeek.nl/20180316OptredenBijVrijdag.mp4)
 
 ![](20180316OpenPodium.png)
 
