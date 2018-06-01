@@ -9,13 +9,21 @@ All he needs is a piano and a microphone.
 
 ## Future performances
 
- * None planned yet
+### 2018-06-08 20:00: Open Stage, ['t Clockhuys-CKC](https://www.clockhuys.com), Haren
+
+A ten-minute-max performance. I will play:
+
+ * [Hee Ga Je Mee](https://github.com/richelbilderbeek/music/HeeGaJeMee.md)
+ * [Wooloo Mooloo](https://github.com/richelbilderbeek/music/WoolooMooloo.md)
+ * If and only if allowed a third song: [Pjanoman](https://github.com/richelbilderbeek/music/Pjanoman.md)
 
 ## Past performances
 
 Most recent at the top.
 
 ### 2018-03-16 20:00: Open Stage, [Bij Vrijdag](https://www.bijvrijdag.nl), Groningen
+
+ * ![YouTube Video](https://youtu.be/K3NYmWz-9x4)
 
 ![](20180316OpenPodium.png)
 
